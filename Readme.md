@@ -1,4 +1,4 @@
-# **Vidispine coding assignment** #
+# **Mandelbrot Set coding assignment** #
 
 This is gradle built spring boot application.
 
